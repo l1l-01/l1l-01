@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @l1l-01
 - 👀 I'm interested in web development, automation, and graphic design.
-- 🌱 I'm currently learning Node JS ,and React ,while also improving my skills in HTML , CSS , JavaScript , PHP and Adobe Illustrator/Photoshop.
+- 🌱 I'm currently learning Next JS ,while also improving my skills in HTML , CSS , JavaScript , PHP and Adobe Illustrator/Photoshop.
 - 💞️ I'm not available for collaboration at the moment.
   
 <!---
