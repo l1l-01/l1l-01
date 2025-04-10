@@ -1,6 +1,6 @@
 - 👋 Hi, I’m l1l
-- 👀 I'm interested in web development, automation, and graphic design.
-- 🌱 I'm currently learning Golang & Laravel ,while also improving my skills in HTML , CSS , JavaScript , PHP.
+- 👀 I'm interested in web development.
+- 🌱 I'm currently learning Golang ,while also improving my skills in Laravel & Nodejs.
 - 💞️ I'm not available for collaboration at the moment.
   
 <!---
