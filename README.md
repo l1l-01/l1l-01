@@ -1,6 +1,6 @@
 - 👋 Hi, I’m l1l
 - 👀 I'm interested in web development.
-- 🌱 I'm currently learning Golang ,while also improving my skills in Laravel & Nodejs.
+- 🌱 I'm currently learning NestJs ,while also improving my skills in React & ExpressJs.
 - 💞️ I'm not available for collaboration at the moment.
   
 <!---
