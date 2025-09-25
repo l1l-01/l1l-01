@@ -1,6 +1,6 @@
 - 👋 Hi, I’m l1l
 - 👀 I'm interested in web development.
-- 🌱 I'm currently learning Elixir & NestJs, while also improving my skills in React & ExpressJs.
+- 🌱 I'm currently learning Flutter & NestJs, while also improving my skills in React & ExpressJs.
 - 💞️ I'm available for collaboration.
   
 <!---
