@@ -1,6 +1,6 @@
 # 👋 Hi, I’m khalil
 
-💻 **Fullstack JavaScript Developer (Junior)**  
+### 💻 Fullstack JavaScript Developer (Junior)
 I enjoy building **web apps, APIs, and UI prototypes** with modern JavaScript frameworks.  
 Currently learning **Flutter** to expand into mobile development 🚀.
 
@@ -17,7 +17,7 @@ and my long-term goal is to contribute to **secure, production-ready libraries**
 ### 📫 Contact Me
 - Email: **khalil.aamar.dev@gmail.com**
 
-**💞️ I'm available for collaboration.**
+### 💞️ I'm available for collaboration.
 
 **✨ Code is just like humare, it's not funny when you explain it ✨**
   
