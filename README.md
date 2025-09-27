@@ -9,7 +9,7 @@ and my long-term goal is to contribute to **secure, production-ready libraries**
 
 
 ### 🛠️ Tech Stack
-- **Frontend:** React, TailwindCSS, Bluma, Html, Css, Javascript
+- **Frontend:** React, EJS, TailwindCSS, Bluma, Html, Css, Javascript
 - **Backend:** Node.js, Express, NestJS  
 - **Databases:** PostgreSQL, MongoDB
 - **Learning:** Flutter and NestJS
