@@ -1,27 +1,47 @@
-# 👋 Hi, I’m khalil
+# 👋 Hi, I’m Khalil
 
 ### 💻 Fullstack JavaScript Developer (Junior)
-I enjoy building **web apps, APIs, and UI prototypes** with modern JavaScript frameworks.  
-Currently learning **Flutter** to expand into mobile development 🚀.
+I enjoy building **web apps, APIs, and small libraries** with modern JavaScript frameworks.  
+Currently learning **Flutter** to expand into mobile development 🚀
 
-I see GitHub as my **playground for demos, experiments, and open-source ideas** —  
+I see GitHub as my **playground for demos, experiments, and open-source ideas**
 and my long-term goal is to contribute to **secure, production-ready libraries** that help the community.
 
+---
 
 ### 🛠️ Tech Stack
-- **Frontend:** React, EJS, TailwindCSS, Bluma, Html, Css, Javascript
-- **Backend:** Node.js, Express, NestJS  
-- **Databases:** PostgreSQL, MongoDB
-- **Learning:** Flutter and NestJS
+
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
+![EJS](https://img.shields.io/badge/-EJS-000000?style=for-the-badge&logo=EJS&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white) 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white) 
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+**Learning:**  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+---
 
 ### 📫 Contact Me
-- Email: **khalil.aamar.dev@gmail.com**
+[![Email](https://img.shields.io/badge/Email-Khalil-blue?style=for-the-badge&logo=gmail)](mailto:khalil.aamar.dev@gmail.com)
 
-### 💞️ I'm available for collaboration.
+### 💞️ Collaboration
+[![Collab](https://img.shields.io/badge/Collaboration-Open-purple?style=for-the-badge)](https://github.com/l1l-01)
 
-**✨ Code is just like humare, it's not funny when you explain it ✨**
-  
-<!---
-l1l-01/l1l-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
