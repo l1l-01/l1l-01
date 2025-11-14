@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Khalil
 
 ### 💻 Fullstack JavaScript Developer (Junior)
-I enjoy building **web apps, APIs, and small libraries** with modern JavaScript frameworks.  
-Currently learning **Flutter** to expand into mobile development 🚀
+I build web apps, APIs, and small libraries using modern JavaScript frameworks.
+Right now I’m expanding into mobile development with Flutter.
 
-I see GitHub as my **playground for demos, experiments, and open-source ideas**
-and my long-term goal is to contribute to **secure, production-ready libraries** that help the community.
+GitHub is my playground for experiments, demos, and open-source ideas.
+My long-term goal is to contribute to secure, production-ready libraries that help the community.
 
 ---
 
@@ -25,6 +25,8 @@ and my long-term goal is to contribute to **secure, production-ready libraries**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white) 
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 
 **Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -35,6 +37,9 @@ and my long-term goal is to contribute to **secure, production-ready libraries**
 **Learning:**  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+**For fun:** <br/>
+![Rust](https://img.shields.io/badge/-Rust-DE4C2C?style=for-the-badge&logo=rust&logoColor=white)
 
 ---
 
