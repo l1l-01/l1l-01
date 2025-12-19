@@ -7,8 +7,7 @@ Right now I’m expanding into mobile development with Flutter.
 GitHub is my playground for **experiments, demos, and open-source ideas**.
 My long-term goal is to contribute to **secure, production-ready libraries** that help the community.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l1l-01&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=l1l-01&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l1l-01&theme=tokyonight&layout=compact)
 
 ---
 
