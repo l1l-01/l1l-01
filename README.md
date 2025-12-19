@@ -1,11 +1,14 @@
 # 👋 Hi, I’m Khalil
 
-### 💻 Fullstack JavaScript Developer (Junior)
-I build web apps, APIs, and small libraries using modern JavaScript frameworks.
+### 💻 Fullstack Web Developer (Junior)
+I build **web apps, APIs, and small libraries** using **modern JavaScript & PHP frameworks**.
 Right now I’m expanding into mobile development with Flutter.
 
-GitHub is my playground for experiments, demos, and open-source ideas.
-My long-term goal is to contribute to secure, production-ready libraries that help the community.
+GitHub is my playground for **experiments, demos, and open-source ideas**.
+My long-term goal is to contribute to **secure, production-ready libraries** that help the community.
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l1l-01&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=l1l-01&theme=tokyonight)
 
 ---
 
@@ -13,7 +16,8 @@ My long-term goal is to contribute to secure, production-ready libraries that he
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
-![EJS](https://img.shields.io/badge/-EJS-000000?style=for-the-badge&logo=EJS&logoColor=white) 
+![EJS](https://img.shields.io/badge/-EJS-000000?style=for-the-badge&logo=EJS&logoColor=white)
+![Blade](https://img.shields.io/badge/-Blade-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
