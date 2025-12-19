@@ -41,7 +41,6 @@ My long-term goal is to contribute to **secure, production-ready libraries** tha
 
 **Learning:**  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 **For fun:** <br/>
 ![Rust](https://img.shields.io/badge/-Rust-DE4C2C?style=for-the-badge&logo=rust&logoColor=white)
