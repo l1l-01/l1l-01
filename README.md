@@ -11,15 +11,23 @@ My long-term goal is to contribute to **secure, production-ready libraries** tha
 
 ### 🛠️ Tech Stack
 
+**Languages:**<br/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-DE4C2C?style=for-the-badge&logo=rust&logoColor=white)
+
+
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
 ![EJS](https://img.shields.io/badge/-EJS-000000?style=for-the-badge&logo=EJS&logoColor=white)
-![Blade](https://img.shields.io/badge/-Blade-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
 
 
 **Backend:**  
@@ -27,7 +35,6 @@ My long-term goal is to contribute to **secure, production-ready libraries** tha
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white) 
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
 **Databases:**  
@@ -38,9 +45,6 @@ My long-term goal is to contribute to **secure, production-ready libraries** tha
 
 **Learning:**  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-
-**For fun:** <br/>
-![Rust](https://img.shields.io/badge/-Rust-DE4C2C?style=for-the-badge&logo=rust&logoColor=white)
 
 ---
 
