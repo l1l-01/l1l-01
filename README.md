@@ -9,7 +9,7 @@
 │  ╚══════╝ ╚═╝╚══════╝                                                 │
 |                                                                       |
 │                                                                       │
-│  Hi, I'm khalil — Junior Fullstack Developer                          │
+│  Hi, I'm khalil — Junior Fullstack Web Developer                      │
 │                                                                       ╰─────────╮
 │                                                                                 │
 │  $ whoami                                                                       |
@@ -17,7 +17,7 @@
 │                                                                                 │
 │  $ cat about.md                                                                 │
 │  • Mostly JavaScript\TypeScript & PHP right now                                 │
-│  • Falling in love with  Rust                                                   │
+│  • Falling in love with Rust                                                    │
 │  • Aiming to contribute to reliable open-source libraries in the future.        │
 │                                                                                 │
 │  $ neofetch --github                                                            │
