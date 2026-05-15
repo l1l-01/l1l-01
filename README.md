@@ -17,7 +17,7 @@
 │                                                                                                  │
 │  $ cat about.md                                                                                  │
 │  • Mostly JavaScript\TypeScript & PHP right now                                                  │
-|  •  experimenting, building tools, and trying out new ideas.                                     |                                                                                       │
+|  • Experimenting, building tools, and trying out new ideas.                                      |                                                                                       │
 │  • Aiming to contribute to reliable open-source libraries in the future.                         │
 │                                                                                                  │
 │  $ neofetch --github                                                                             │
