@@ -4,15 +4,7 @@ I'm passionate about understanding how computers work from the ground up
 
 ---
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=rust" height="35" alt="Rust"/>
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=php" height="35" alt="PHP"/>
-  <img src="https://skillicons.dev/icons?i=java" height="35" alt="Java"/>
-</p>
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=l1l-01&size_weight=0.5&count_weight=0.5&theme=dark&hide=html,css)
 
 ---
 
